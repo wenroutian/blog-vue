@@ -30,8 +30,12 @@
                         title: '表格',
                         subs: [
                             {
-                                index: 'baseform',
+                                index: 'account',
                                 title: '添加账号'
+                            },
+                            {
+                            index: 'form',
+                            title: 'formValidate'
                             }
                         ]
                     },
